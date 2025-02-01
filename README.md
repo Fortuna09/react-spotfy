@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tela Spotfy - Alura 
+
+Foi desenvolvido o codigo nesse curso front-end, e com o intuito de treino no desenvolvimento do Typescript, possui dois "src".
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
